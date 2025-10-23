@@ -1,6 +1,6 @@
 # 👨‍💻 João Pedro Lemos
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo João Pedro Lemos, tenho 19 anos e sou natural de João Pessoa, Paraíba.
 Atualmente, curso Sistemas de Informação, estando no 5º período, e sou apaixonado por tecnologia e tudo o que envolve o desenvolvimento de soluções digitais.
