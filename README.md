@@ -6,7 +6,7 @@ Me chamo João Pedro Lemos, tenho 19 anos e sou natural de João Pessoa, Paraíb
 Atualmente, curso Sistemas de Informação, estando no 5º período, e sou apaixonado por tecnologia e tudo o que envolve o desenvolvimento de soluções digitais.
 
 Tenho interesse especial nas áreas de desenvolvimento web e infraestrutura de redes, buscando sempre unir código limpo, desempenho e segurança.
-Acredito que aprender e compartilhar conhecimento é o que move a evolução na tecnologia — por isso, estou constantemente explorando novas ferramentas, linguagens e boas práticas para me tornar um profissional cada vez mais completo.
+Acredito que aprender e compartilhar conhecimento é o que move a evolução na tecnologia, por isso, estou constantemente explorando novas ferramentas, linguagens e boas práticas para me tornar um profissional cada vez mais completo.
 
 Meu objetivo é construir uma carreira sólida na área de tecnologia da informação, contribuindo para projetos que impactem pessoas e empresas de forma positiva.
 
